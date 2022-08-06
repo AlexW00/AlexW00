@@ -5,4 +5,4 @@
 
 ## 👨‍💻 Projects
 
-Below (pinned), you can find some of my favorite projects.
+Below, you can find some of my favorite projects:
