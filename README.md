@@ -5,4 +5,5 @@
 
 ## 👨‍💻 Projects
 
-Below, you can find some of my favorite projects:
+You can find a complete list of my projects [here](➡️).
+Below are some of my favorites:
