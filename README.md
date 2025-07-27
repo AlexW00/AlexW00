@@ -6,5 +6,5 @@
 
 ## 👨‍💻 Projects
 
-You can find a complete list of my projects [here](https://www.linkedin.com/in/alexander-weichart-a357241a4/details/projects/).
+You can find a complete list of my projects [here](https://alexanderweichart.de/4_Projects/Projects).
 Below are some of my favorites:
