@@ -1,8 +1,7 @@
 ## 🔗 Links
 
 - [CV](https://github.com/AlexW00/CV)
-- [Dotfiles](https://github.com/AlexW00/.config)
-- [Scripts](https://github.com/AlexW00/Scripts)
+- [Website](https://alexanderweichart.de)
 
 ## 👨‍💻 Projects
 
