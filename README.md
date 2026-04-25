@@ -2,6 +2,7 @@
 
 - [CV](https://github.com/AlexW00/CV)
 - [Website](https://alexanderweichart.de)
+- [Apps](https://apps.weichart.de)
 
 ## 👨‍💻 Projects
 
